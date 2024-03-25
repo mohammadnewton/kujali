@@ -29,7 +29,7 @@
     "@nrwl/angular": "15.4.4",
     "@nrwl/node": "15.4.4",
     "chart.js": "^3.9.1",
-    "firebase-admin": "^11.4.1",
+    "firebase-admin": "^12.0.0",
     "firebase-functions": "^4.1.1",
     "firebase-tools": "^11.19.0",
     "lodash": "^4.17.21",
